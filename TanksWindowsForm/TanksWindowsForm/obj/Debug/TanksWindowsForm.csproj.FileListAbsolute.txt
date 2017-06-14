@@ -1,0 +1,9 @@
+D:\Projects\Other\TanksWindowsForm\TanksWindowsForm\bin\Debug\TanksWindowsForm.exe.config
+D:\Projects\Other\TanksWindowsForm\TanksWindowsForm\bin\Debug\TanksWindowsForm.exe
+D:\Projects\Other\TanksWindowsForm\TanksWindowsForm\bin\Debug\TanksWindowsForm.pdb
+D:\Projects\Other\TanksWindowsForm\TanksWindowsForm\obj\Debug\TanksWindowsForm.csprojResolveAssemblyReference.cache
+D:\Projects\Other\TanksWindowsForm\TanksWindowsForm\obj\Debug\TanksWindowsForm.Form1.resources
+D:\Projects\Other\TanksWindowsForm\TanksWindowsForm\obj\Debug\TanksWindowsForm.Properties.Resources.resources
+D:\Projects\Other\TanksWindowsForm\TanksWindowsForm\obj\Debug\TanksWindowsForm.csproj.GenerateResource.Cache
+D:\Projects\Other\TanksWindowsForm\TanksWindowsForm\obj\Debug\TanksWindowsForm.exe
+D:\Projects\Other\TanksWindowsForm\TanksWindowsForm\obj\Debug\TanksWindowsForm.pdb
